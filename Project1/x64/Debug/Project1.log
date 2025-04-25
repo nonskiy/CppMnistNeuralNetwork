@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Neural network\Project1\main.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> D:\Neural network\Project1\x64\Debug\Project1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
